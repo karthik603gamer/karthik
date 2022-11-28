@@ -1,4 +1,5 @@
-pipeline --->v1
+pipeline --->v2
+karthik update the v2
 
 Jenkinsfile (Scripted Pipeline)
 node {  
