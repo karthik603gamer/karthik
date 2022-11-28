@@ -1,5 +1,5 @@
-pipeline --->v2
-karthik update the v2
+pipeline --->v3
+karthik update the v3
 
 Jenkinsfile (Scripted Pipeline)
 node {  
@@ -25,12 +25,3 @@ pipeline {
         stage('Test') { 
             steps {
                 // 
-            }
-        }
-        stage('Deploy') { 
-            steps {
-                // 
-            }
-        }
-    }
-}
