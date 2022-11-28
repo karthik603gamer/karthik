@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 pipeline --->v3
 karthik update the v3
+=======
+>>>>>>> parent of 84863c2 (v2)
 
 Jenkinsfile (Scripted Pipeline)
 node {  
