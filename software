@@ -1,0 +1,32 @@
+software -----------> k1
+
+karthik created the software ---> k1
+
+parent of 84863c2 (v)
+ parent of 84863c2 (v)
+
+Jenkinsfile (Scripted Pipeline)
+node {  
+    stage('Build') { 
+        // 
+    }
+    stage('Test') { 
+        // 
+    }
+    stage('Deploy') { 
+        // 
+    }
+}
+Jenkinsfile (Declarative Pipeline)
+pipeline {
+    agent any 
+    stages {
+        stage('Build') { 
+            steps {
+                // 
+            }
+        }
+        stage('Test') { 
+            steps {
+                // 
+this is the the sofware 1 k1
