@@ -1,6 +1,6 @@
-software -----------> k3
+software -----------> k2
 
-karthik created the software ---> k3
+karthik created the software ---> k2
 
 parent of 84863c2 (v)
  parent of 84863c2 (v)
@@ -29,4 +29,4 @@ pipeline {
         stage('Test') { 
             steps {
                 // 
-this is the the sofware 1 k3
+this is the the sofware 1 k2
